@@ -1,0 +1,4 @@
+app/orders/*
+.env
+pizza-multi
+**/__pycache__/
