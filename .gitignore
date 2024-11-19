@@ -2,3 +2,4 @@ app/orders/*
 .env
 pizza-multi
 **/__pycache__/
+TestingOut.ipynb
